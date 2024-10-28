@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <h4>ScreenShot</h4>
-<a href="https://ibb.co.com/09kbfzH"><img src="https://i.ibb.co.com/vdbnJM0/Record-2024-10-28-08-10-01-ezgif-com-video-to-gif-converter.gif" alt="Screenshot" border="1" width="300"></a>
+[<a href="https://ibb.co.com/09kbfzH"><img src="https://i.ibb.co.com/vdbnJM0/Record-2024-10-28-08-10-01-ezgif-com-video-to-gif-converter.gif" alt="Screenshot" border="1" width="300"></a>](https://github.com/moshaddaque/onboarding_ui/issues/1#issue-2617123371)
 
 ## Getting Started
 
