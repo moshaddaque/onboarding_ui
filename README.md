@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # ScreenShot
-<img src="https://i.ibb.co.com/vdbnJM0/Record-2024-10-28-08-10-01-ezgif-com-video-to-gif-converter.gif" alt="ScreenShoots" border="2"height="200></a>
+<img src="https://i.ibb.co.com/vdbnJM0/Record-2024-10-28-08-10-01-ezgif-com-video-to-gif-converter.gif" alt="ScreenShoots" border="2"height="200"></a>
 
 ## Getting Started
 
